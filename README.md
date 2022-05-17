@@ -1,0 +1,2 @@
+# BetterDiscordAddons
+Plugins for BetterDiscord
